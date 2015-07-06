@@ -11,7 +11,10 @@ Automatically sync your Pocket and Instapaper articles as daily magazines for th
 A Chrome plugin that gets rid of comment blocks on sites [[source](https://github.com/herval/antisocial-chrome)]
 
 ## [The Markovian Writer](https://twitter.com/markovian_lit)
-Eventually generating literary text based on pseudo-random babble extracted from the top 100 books from Project Gutenberg [[source](https://github.com/herval/markovian_literature)]
+Eventually generating literary text based on text from the top 100 books from Project Gutenberg using a simple Markovian Chain [[source](https://github.com/herval/markovian_literature)]
+
+## [DeepDreaming in Docker](https://registry.hub.docker.com/u/herval/deepdream/)
+Google #deepdream as a simple to use Docker container [[source](https://github.com/herval/deepdream-docker)]
 
 ## [Yahoo Finance Gem](https://github.com/herval/yahoo-finance)
 A dead simple wrapper for yahoo finance quotes end-point used by a lot of people

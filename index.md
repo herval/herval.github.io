@@ -29,7 +29,7 @@ A tiny Campfire client for the command line
 A cURL-like tool for calling Thrift services from the command line
 
 
-# Presentations and random babble
+# Presentations, blog posts and random babble
 
 ## [So you think JSON is a good idea?](http://www.slideshare.net/herval/so-you-think-json-is)
 An experiment on JSON vs binary RPC formats on a microservice architecture
@@ -39,9 +39,6 @@ Scala, microservices and music (QCON Rio 2014, pt-BR)
 
 ## [Startup don'ts](http://www.slideshare.net/herval/startup-donts)
 Lessons learned on trying to build a business
-
-
-# Blog posts and random scribble
 
 ## [SEO-friendly single-page apps in Rails](http://hervalicio.us/post/50419740610/seo-friendly-single-page-apps-in-rails)
 Exploring server-side rendering for Javascript-heavy apps
@@ -63,6 +60,27 @@ Issuer plugs in to your Rails app, catching exceptions and posting them to your 
 
 ## [ToDo](https://github.com/herval/ToDoApp)
 A simple To Do app demonstrating Rubymotion
+
+
+# Startups/companies/what-have-you
+
+## [Novelo](http://novelo.com)
+A Facebook commerce platform. Startup Chile Alumni (1st batch), shut down in 2012.
+
+## [BlooBox](http://bloobox.com.br)
+A Wordpress-like platform for Digital Signage. Acquired in 2011.
+
+## [InvestidorVirtual](http://investidorvirtual.com)
+A Rails-powered stock market simulation game that reached 25,000 users (deactivated in 2009 due to "regulatory costs")
+
+## [MyGuestmap](http://mapservices.org/myguestmap)
+A mapping service that allows users to set up their own Google Maps-based guestbooks and embed the maps on their own websites, reaching 45,000+ regular users. Deactivated in 2015 due to payments and API issues
+
+## [Sollipsis Interactive](http://sollipsis.com)
+Selling mobile games. In Brazil. In 2003. Perfect timing!
+
+## [Connect](http://cnnt.com.br)
+My first company (founded 2001). Focused on PalmOS software and sales force automation.
 
 
 # Really old stuff (pre-2001) <small>Here just to embarass myself</small>

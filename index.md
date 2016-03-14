@@ -2,22 +2,22 @@
 layout: default
 ---
 
-# Projects
+# Open source projects
 
-## [DailyCrunch](http://dailycrunch.mobi/)
-Automatically sync your Pocket and Instapaper articles as daily magazines for the Kindle.
+## [Unforgiven Swift](http://unforgiven-swift.tumblr.com/)
+A Neural Network that generates random music lyrics crossing the writing of Taylor Swift and Metallica. [[source](https://github.com/herval/unforgiven-swift)]
 
 ## [Antisocial for Chrome](https://chrome.google.com/webstore/detail/anti-social-hide-all-the/ngmpaodhbmmkamjlgdajipkanidojngm)
-A Chrome plugin that gets rid of comment blocks on sites [[source](https://github.com/herval/antisocial-chrome)]
+A Chrome plugin that gets rid of comment blocks on sites. [[source](https://github.com/herval/antisocial-chrome)]
 
 ## [The Markovian Writer](https://twitter.com/markovian_lit)
-Eventually generating literary text based on text from the top 100 books from Project Gutenberg using a simple Markovian Chain [[source](https://github.com/herval/markovian_literature)]
+Eventually generating literary text based on the top 100 books from Project Gutenberg using a simple Markov Chain. [[source](https://github.com/herval/markovian_literature)]
 
 ## [DeepDreaming in Docker](https://registry.hub.docker.com/u/herval/deepdream/)
-Google #deepdream as a simple to use Docker container [[source](https://github.com/herval/deepdream-docker)]
+Google #deepdream as an easy to use Docker container [[source](https://github.com/herval/deepdream-docker)]
 
 ## [Yahoo Finance Gem](https://github.com/herval/yahoo-finance)
-A dead simple wrapper for yahoo finance quotes end-point used by a lot of people
+A dead simple wrapper for Yahoo Finance quotes end-point used by a lot of people
 
 ## [Campline](https://github.com/herval/campline)
 A tiny Campfire client for the command line
@@ -49,6 +49,9 @@ A collection of postmortems from my past entrepreneurial experiences
 
 # Deadpool <small>Projects that are no more</small>
 
+## [DailyCrunch](http://dailycrunch.mobi/)
+Automatically sync your Pocket and Instapaper articles as daily magazines for the Kindle.
+
 ## [backbone.styleguide](https://github.com/herval/backbone.styleguide)
 A live styleguide "extension" for BackboneJS-based apps
 
@@ -63,6 +66,9 @@ A simple To Do app demonstrating Rubymotion
 
 
 # Startups/companies/what-have-you
+
+## [PrivyHR](http://privyhr.com)
+A candidate mnitoring tool for recruiters.
 
 ## [Novelo](http://novelo.com)
 A Facebook commerce platform. Startup Chile Alumni (1st batch), shut down in 2012.

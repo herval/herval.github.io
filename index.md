@@ -4,6 +4,12 @@ layout: default
 
 # Open source projects
 
+## [Swogo](https://github.com/herval/swogo)
+Implementing the Logo programming language as a Swift Playground.
+
+## [Mobile Game of Life](https://github.com/herval/game-of-life-ios)
+Conway's Game of Life for iOS
+
 ## [Unforgiven Swift](http://unforgiven-swift.tumblr.com/)
 A Neural Network that generates random music lyrics crossing the writing of Taylor Swift and Metallica. [[source](https://github.com/herval/unforgiven-swift)]
 
@@ -68,7 +74,7 @@ A simple To Do app demonstrating Rubymotion
 # Startups/companies/what-have-you
 
 ## [PrivyHR](http://privyhr.com)
-A candidate mnitoring tool for recruiters.
+A candidate mnitoring tool for recruiters. 
 
 ## [Novelo](http://novelo.com)
 A Facebook commerce platform. Startup Chile Alumni (1st batch), shut down in 2012.

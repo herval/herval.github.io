@@ -11,19 +11,19 @@ Monitoring cryptocurrencies in multiple exchanges using Akka
 A programmable Arduino-based device with a Golang interface, so you can deploy your site or read tweets by fiddling with good ol' switches and buttons
 
 ## [Swogo](https://github.com/herval/swogo)
-Implementing the Logo programming language as a Swift Playground.
+Implementing the Logo programming language as a Swift Playground
 
 ## [Mobile Game of Life](https://github.com/herval/game-of-life-ios)
 Conway's Game of Life for iOS
 
-## [Unforgiven Swift](http://unforgiven-swift.tumblr.com/)
-A Neural Network that generates random music lyrics crossing the writing of Taylor Swift and Metallica. [[source](https://github.com/herval/unforgiven-swift)]
+## [Haikuzao](http://twitter.com/haikuzao)
+A Neural Network that generates Haikus and posts them on Twitter [[source](https://github.com/herval/creative_machines)]
 
 ## [Antisocial for Chrome](https://chrome.google.com/webstore/detail/anti-social-hide-all-the/ngmpaodhbmmkamjlgdajipkanidojngm)
-A Chrome plugin that gets rid of comment blocks on sites. [[source](https://github.com/herval/antisocial-chrome)]
+A Chrome plugin that gets rid of comment blocks on sites [[source](https://github.com/herval/antisocial-chrome)]
 
 ## [The Markovian Writer](https://twitter.com/markovian_lit)
-Eventually generating literary text based on the top 100 books from Project Gutenberg using a simple Markov Chain. [[source](https://github.com/herval/markovian_literature)]
+Eventually generating literary text based on the top 100 books from Project Gutenberg using a simple Markov Chain [[source](https://github.com/herval/markovian_literature)]
 
 ## [DeepDreaming in Docker](https://registry.hub.docker.com/u/herval/deepdream/)
 Google #deepdream as an easy to use Docker container [[source](https://github.com/herval/deepdream-docker)]

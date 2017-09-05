@@ -2,7 +2,13 @@
 layout: default
 ---
 
-# Open source projects
+# Open source toys
+
+## [Coinstream](https://github.com/herval/coinstream)
+Monitoring cryptocurrencies in multiple exchanges using Akka
+
+## [Ground Control](https://github.com/herval/groundcontrol)
+A programmable Arduino-based device with a Golang interface, so you can deploy your site or read tweets by fiddling with good ol' switches and buttons
 
 ## [Swogo](https://github.com/herval/swogo)
 Implementing the Logo programming language as a Swift Playground.
@@ -29,11 +35,10 @@ A dead simple wrapper for Yahoo Finance quotes end-point used by a lot of people
 A tiny Campfire client for the command line
 
 
-# In the works <small>Not quite ready yet...</small>
+# Personal projects
 
-## [Thrurl](https://github.com/herval/thrurl)
-A cURL-like tool for calling Thrift services from the command line
-
+## [DailyCrunch](http://dailycrunch.mobi/)
+Automatically sync your Pocket and Instapaper articles as daily magazines for the Kindle.
 
 # Presentations, blog posts and random babble
 
@@ -53,28 +58,7 @@ Exploring server-side rendering for Javascript-heavy apps
 A collection of postmortems from my past entrepreneurial experiences
 
 
-# Deadpool <small>Projects that are no more</small>
-
-## [DailyCrunch](http://dailycrunch.mobi/)
-Automatically sync your Pocket and Instapaper articles as daily magazines for the Kindle.
-
-## [backbone.styleguide](https://github.com/herval/backbone.styleguide)
-A live styleguide "extension" for BackboneJS-based apps
-
-## [render_static](https://github.com/herval/render_static)
-render_static makes any Rails/js single-page app SEO friendly by pre-rendering content for SEO bots
-
-## [issuer](https://github.com/herval/issuer)
-Issuer plugs in to your Rails app, catching exceptions and posting them to your Github project as issues.
-
-## [ToDo](https://github.com/herval/ToDoApp)
-A simple To Do app demonstrating Rubymotion
-
-
 # Startups/companies/what-have-you
-
-## [PrivyHR](http://privyhr.com)
-A candidate mnitoring tool for recruiters. 
 
 ## [Novelo](http://novelo.com)
 A Facebook commerce platform. Startup Chile Alumni (1st batch), shut down in 2012.
@@ -93,15 +77,3 @@ Selling mobile games. In Brazil. In 2003. Perfect timing!
 
 ## [Connect](http://cnnt.com.br)
 My first company (founded 2001). Focused on PalmOS software and sales force automation.
-
-
-# Really old stuff (pre-2001) <small>Here just to embarass myself</small>
-
-## [FoodSim](https://bitbucket.org/herval/foodsim)
-A producer-consumer simulation. Pretty much the precursor of Farmville, but without the pay-to-play component!
-
-## [JChat](https://bitbucket.org/herval/jchat)
-Slack as it would be... if created in 2001 (surprisingly still in use by some folks!)
-
-## [Snake](https://bitbucket.org/herval/cpp_snake)
-Nokia's Snake game in C++. My first attempt at games AND C++ (and pretty much the last)

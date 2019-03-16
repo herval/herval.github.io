@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Presentations, blog posts, et
+# Presentations & blog posts
 
 ## [Stress Testing as a Service: a tale of New Year's Eves at Twitter](https://www.slideshare.net/herval/stress-testing-at-twitter-a-tale-of-new-year-eves)
 A bit of Twitter's journey towards fully automated (and safe) stress testing (QCon SP 2018)

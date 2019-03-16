@@ -2,7 +2,31 @@
 layout: default
 ---
 
+# Presentations, blog posts, et
+
+## [Stress Testing as a Service: a tale of New Year's Eves at Twitter](https://www.slideshare.net/herval/stress-testing-at-twitter-a-tale-of-new-year-eves)
+A bit of Twitter's journey towards fully automated (and safe) stress testing (QCon SP 2018)
+
+## [So you think JSON is a good idea?](http://www.slideshare.net/herval/so-you-think-json-is)
+An experiment on JSON vs binary RPC formats on a microservice architecture
+
+## [Scala at SoundCloud](http://www.slideshare.net/herval/scala-na-soundcloud-qcon)
+Scala, microservices and music (QCon Rio 2014, pt-BR)
+
+## [Startup don'ts](http://www.slideshare.net/herval/startup-donts)
+Lessons learned on trying to build a business (Startup Chile, 2011)
+
+## [SEO-friendly single-page apps in Rails](http://hervalicio.us/post/50419740610/seo-friendly-single-page-apps-in-rails)
+Exploring server-side rendering for Javascript-heavy apps
+
+## [A postmortem of postmortems](http://hervalicio.us/post/33446435432/a-post-mortem-of-post-mortems)
+A collection of postmortems from my past entrepreneurial experiences
+
+
 # Open source toys
+
+## [Cloudsearch](https://github.com/herval/cloudsearch)
+A tiny command-line search tool for cloud accounts
 
 ## [Coinstream](https://github.com/herval/coinstream)
 Monitoring cryptocurrencies in multiple exchanges using Akka
@@ -31,34 +55,13 @@ Google #deepdream as an easy to use Docker container [[source](https://github.co
 ## [Yahoo Finance Gem](https://github.com/herval/yahoo-finance)
 A dead simple wrapper for Yahoo Finance quotes end-point used by a lot of people
 
-## [Campline](https://github.com/herval/campline)
-A tiny Campfire client for the command line
-
-
-# Personal projects
-
-## [DailyCrunch](http://dailycrunch.mobi/)
-Automatically sync your Pocket and Instapaper articles as daily magazines for the Kindle.
-
-# Presentations, blog posts and random babble
-
-## [So you think JSON is a good idea?](http://www.slideshare.net/herval/so-you-think-json-is)
-An experiment on JSON vs binary RPC formats on a microservice architecture
-
-## [Scala at SoundCloud](http://www.slideshare.net/herval/scala-na-soundcloud-qcon)
-Scala, microservices and music (QCON Rio 2014, pt-BR)
-
-## [Startup don'ts](http://www.slideshare.net/herval/startup-donts)
-Lessons learned on trying to build a business
-
-## [SEO-friendly single-page apps in Rails](http://hervalicio.us/post/50419740610/seo-friendly-single-page-apps-in-rails)
-Exploring server-side rendering for Javascript-heavy apps
-
-## [A postmortem of postmortems](http://hervalicio.us/post/33446435432/a-post-mortem-of-post-mortems)
-A collection of postmortems from my past entrepreneurial experiences
-
 
 # Startups/companies/what-have-you
+
+I started a bunch of stuff, some of it worked, some of it didn't. I'm not done yet.
+
+## [DailyCrunch](http://dailycrunch.mobi/)
+Automatically sync your Pocket and Instapaper articles as daily magazines for the Kindle. Apparently not a lot of people read non-books on their Kindles, so I finally shut this down in 2017.
 
 ## [Novelo](http://novelo.com)
 A Facebook commerce platform. Startup Chile Alumni (1st batch), shut down in 2012.

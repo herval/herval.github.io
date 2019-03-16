@@ -25,9 +25,6 @@ A collection of postmortems from my past entrepreneurial experiences
 
 # Open source toys
 
-## [Cloudsearch](https://github.com/herval/cloudsearch)
-A tiny command-line search tool for cloud accounts
-
 ## [Coinstream](https://github.com/herval/coinstream)
 Monitoring cryptocurrencies in multiple exchanges using Akka
 

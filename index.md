@@ -2,6 +2,32 @@
 layout: default
 ---
 
+# Startups/companies/what-have-you
+
+I started lots of stuff. Some of it worked, some of it didn't. I'm not done yet!
+
+## [DailyCrunch](https://betalist.com/startups/thedailycrunch)
+Automatically sync your Pocket and Instapaper articles as daily magazines for the Kindle. Apparently not a lot of people read non-books on their Kindles, so I finally shut this down in 2017.
+
+## [Novelo](http://novelo.com)
+A Facebook commerce platform. Startup Chile Alumni (1st batch), shut down in 2012.
+
+## [BlooBox](http://bloobox.com.br)
+A Wordpress-like platform for Digital Signage. Acquired in 2011.
+
+## [InvestidorVirtual](http://investidorvirtual.com)
+A stock market simulation game that reached 25,000 very active users (deactivated in 2009 due to "regulatory costs" aka Bovespa didn't like the competition).
+
+## [MyGuestmap](http://mapservices.org/myguestmap)
+A mapping service that allows users to set up their own Google Maps-based guestbooks and embed the maps on their own websites, reaching 45,000+ regular users. Deactivated in 2015 due to payments and API issues.
+
+## [Sollipsis Interactive](http://sollipsis.com)
+Selling mobile games. In Brazil. In 2003. Perfect timing!
+
+## [Connect](http://cnnt.com.br)
+My first company (founded 2001). Focused on PalmOS software and sales force automation. Company still lives on!
+
+
 # Presentations & blog posts
 
 ## [Stress Testing as a Service: a tale of New Year's Eves at Twitter](https://www.slideshare.net/herval/stress-testing-at-twitter-a-tale-of-new-year-eves)
@@ -25,55 +51,32 @@ A collection of postmortems from my past entrepreneurial experiences
 
 # Open source toys
 
+## [Open Source Chess](https://github.com/herval/OpenSourceChess)
+A Chess game in Unity.
+
 ## [Coinstream](https://github.com/herval/coinstream)
-Monitoring cryptocurrencies in multiple exchanges using Akka
+Monitoring cryptocurrencies in multiple exchanges using Akka.
 
 ## [Ground Control](https://github.com/herval/groundcontrol)
-A programmable Arduino-based device with a Golang interface, so you can deploy your site or read tweets by fiddling with good ol' switches and buttons
+A programmable Arduino-based device with a Golang interface, so you can deploy your site or read tweets by fiddling with good ol' switches and buttons.
 
 ## [Swogo](https://github.com/herval/swogo)
-Implementing the Logo programming language as a Swift Playground
+Implementing the Logo programming language as a Swift Playground.
 
 ## [Mobile Game of Life](https://github.com/herval/game-of-life-ios)
-Conway's Game of Life for iOS
+Conway's Game of Life for iOS.
 
 ## [Haikuzao](http://twitter.com/haikuzao)
-A Neural Network that generates Haikus and posts them on Twitter [[source](https://github.com/herval/creative_machines)]
+A Neural Network that generates Haikus and posts them on Twitter [[source](https://github.com/herval/creative_machines)].
 
 ## [Antisocial for Chrome](https://chrome.google.com/webstore/detail/anti-social-hide-all-the/ngmpaodhbmmkamjlgdajipkanidojngm)
-A Chrome plugin that gets rid of comment blocks on sites [[source](https://github.com/herval/antisocial-chrome)]
+A Chrome plugin that gets rid of comment blocks on sites [[source](https://github.com/herval/antisocial-chrome)].
 
 ## [The Markovian Writer](https://twitter.com/markovian_lit)
-Eventually generating literary text based on the top 100 books from Project Gutenberg using a simple Markov Chain [[source](https://github.com/herval/markovian_literature)]
+Eventually generating literary text based on the top 100 books from Project Gutenberg using a simple Markov Chain [[source](https://github.com/herval/markovian_literature)].
 
 ## [DeepDreaming in Docker](https://registry.hub.docker.com/u/herval/deepdream/)
-Google #deepdream as an easy to use Docker container [[source](https://github.com/herval/deepdream-docker)]
+Google #deepdream as an easy to use Docker container [[source](https://github.com/herval/deepdream-docker)].
 
 ## [Yahoo Finance Gem](https://github.com/herval/yahoo-finance)
-A dead simple wrapper for Yahoo Finance quotes end-point used by a lot of people
-
-
-# Startups/companies/what-have-you
-
-I started a bunch of stuff, some of it worked, some of it didn't. I'm not done yet.
-
-## [DailyCrunch](http://dailycrunch.mobi/)
-Automatically sync your Pocket and Instapaper articles as daily magazines for the Kindle. Apparently not a lot of people read non-books on their Kindles, so I finally shut this down in 2017.
-
-## [Novelo](http://novelo.com)
-A Facebook commerce platform. Startup Chile Alumni (1st batch), shut down in 2012.
-
-## [BlooBox](http://bloobox.com.br)
-A Wordpress-like platform for Digital Signage. Acquired in 2011.
-
-## [InvestidorVirtual](http://investidorvirtual.com)
-A Rails-powered stock market simulation game that reached 25,000 users (deactivated in 2009 due to "regulatory costs")
-
-## [MyGuestmap](http://mapservices.org/myguestmap)
-A mapping service that allows users to set up their own Google Maps-based guestbooks and embed the maps on their own websites, reaching 45,000+ regular users. Deactivated in 2015 due to payments and API issues
-
-## [Sollipsis Interactive](http://sollipsis.com)
-Selling mobile games. In Brazil. In 2003. Perfect timing!
-
-## [Connect](http://cnnt.com.br)
-My first company (founded 2001). Focused on PalmOS software and sales force automation.
+A dead simple wrapper for Yahoo Finance quotes end-point used by a lot of people.
